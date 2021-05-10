@@ -1,5 +1,5 @@
 # !!! # Crawl responsibly by identifying yourself (and your website/e-mail) on the user-agent
-USER_AGENT = 'TweetScraper'
+USER_AGENT = 'phantom_23224@gmail.com'
 
 # settings for spiders
 BOT_NAME = 'TweetScraper'
